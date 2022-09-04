@@ -2,8 +2,8 @@
 
 <!
 
-- 🔭 I’m currently working on React js 
-- 🌱 I’m currently learning Jest
+- 🔭 I’m currently working on Node js.
+- 🌱 I’m currently learning Express.
 - ✉️ Contact me at: helany.f.melo@gmail.com
 <div align="center">
   <a href="https://github.com/helanymelo">

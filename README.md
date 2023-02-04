@@ -1,6 +1,5 @@
 ### Hi there, I'm Helany! 👋
 
-<!
 
 - 🔭 I’m currently working on Node js.
 - 🌱 I’m currently learning Express.
